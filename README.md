@@ -1,5 +1,5 @@
 # GAMES101: Introduction to Computer Graphics
-<div align=center><img src="./imgs/CG.png" width="810" height="150" alt="CG"/></div>
+<div align=center><img src="./imgs/CG.png" width="810" height="10" alt="CG"/></div>
 
 * This is the online course taught by [Ling-Qi Yan](https://sites.cs.ucsb.edu/~lingqi/index.html) in Chinese.
 * There are **eight assignments** and **one final project**. All eight assignments only need Eigen, OpenCV except assignment 8.
@@ -24,4 +24,17 @@
 
 * Result with MSAA
 <div align=center><img src="./imgs/a2_msaa.png" width="300" height="300" alt="raw result with msaa"/></div>
+
+
+## Assignment 3: Pipeline and Shading
+### Requirements
+* Interpolate colors, normal vectors, texture coordinates, and position correctly
+* Implement Blinn-phong reflection model correctly
+* Implement Texture Mapping correctly
+* Implement Bump mapping and Displacement mapping correctly
+* [Bonus] Try more models: Find other available .obj files and render them
+* [Bonus] Implement bilinear texture interpolation
+### Results (grade: 58 / 58)
+* The results from left to right are normal mapping, bump mapping, texture mapping, displacement mapping and Blinn-phong reflection model. 
+<div align=center><img src="./imgs/a3.png" width="555" height="250" alt="a3"/></div>
 
