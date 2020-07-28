@@ -38,3 +38,8 @@
 * The results from left to right are normal mapping, bump mapping, texture mapping, displacement mapping and Blinn-phong reflection model. 
 <div align=center><img src="./imgs/a3.png" width="555" height="250" alt="a3"/></div>
 
+* Results w/o bilinear texture interpolation
+<div align=center><img src="./imgs/a3_bi.png" width="657" height="250" alt="a3 bi"/></div>
+
+
+
