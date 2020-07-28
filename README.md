@@ -91,6 +91,7 @@
     * Resolution: 512, SSP = 16, running time: 1212 seconds
     * Resolution: 512, SSP = 16, running time: 641 seconds with OpenMP
 * Microfacet material
+<div align=center><img src="./imgs/a7_microfacet.png" width="500" height="174.6" alt="result"/></div>
 
 
 
