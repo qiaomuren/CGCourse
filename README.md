@@ -2,11 +2,10 @@
 <div align=center><img src="./imgs/CG.png" width="810" height="150" alt="CG"/></div>
 
 * This is the online course taught by [Ling-Qi Yan(闫令琪)](https://sites.cs.ucsb.edu/~lingqi/index.html) in Chinese.
-* There are **eight assignments** and **one final project**. All eight assignments only need Eigen, OpenCV except assignment 8.
-* My overall grade is **114.81 / 115**. 
-<div align=center><img src="./imgs/grade.jpg" width="300" height="88" alt="grade"/></div>
-
 * Course Homepage can be found [here](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html).
+* There are **eight assignments** and **one final project**. All eight assignments only need Eigen, OpenCV except assignment 8.
+* My overall grade is [114.81 / 115](./imgs/grade.jpg). 
+* Certificates can be found here([Chinese Version](./imgs/Chinese.jpg), [English Version](./imgs/English.jpg)).
 
 ## Assignment 1: Rotation and Projection
 ### Requirements
