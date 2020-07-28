@@ -53,3 +53,11 @@
 * Result with anti-aliasing
 <div align=center><img src="./imgs/a4_anti.png" width="300" height="300" alt="result with anti-aliasing"/></div>
 
+
+## Assignment 5: Intersection of Light and Triangle
+### Requirements
+* Implement the light generation part
+* Implement the Moller-Trumbore algorithm
+### Results (grade: 30 / 30)
+<div align=center><img src="./imgs/a5.ppm" width="500" height="375" alt="result"/></div>
+
