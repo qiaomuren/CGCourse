@@ -78,4 +78,19 @@
 <div align=center><img src="./imgs/a6_SAH.png" width="500" height="375" alt="result"/></div>
 
 
+##  Assignment 7: Path Tracing
+### Requirements
+* Implement the Path Tracing Algorithm
+* [Bonus] Multi-thread: Generate ray using multi-thread
+* [Bonus] Microfacet: Implement the Microfacet material and submit the rendering results that reflect the nature of the Microfacet
+### Results (grade: 69 / 70)
+* Result of Ray Tracing
+<div align=center><img src="./imgs/a7_rt.ppm" width="300" height="300" alt="result"/></div>
+
+* Comparison (w/o multi-thread)
+    * Resolution: 512, SSP = 16, running time: 1212 seconds
+    * Resolution: 512, SSP = 16, running time: 641 seconds with OpenMP
+* Microfacet material
+
+
 
