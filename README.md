@@ -1,5 +1,5 @@
 # GAMES101: Introduction to Computer Graphics
-<div align=center><img src="./imgs/CG.png" width="810" height="100" alt="CG"/></div>
+<div align=center><img src="./imgs/CG.png" width="810" height="150" alt="CG"/></div>
 
 * This is the online course taught by [Ling-Qi Yan](https://sites.cs.ucsb.edu/~lingqi/index.html) in Chinese.
 * There are **eight assignments** and **one final project**. All eight assignments only need Eigen, OpenCV except assignment 8.
