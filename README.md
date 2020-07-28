@@ -85,7 +85,7 @@
 * [Bonus] Microfacet: Implement the Microfacet material and submit the rendering results that reflect the nature of the Microfacet
 ### Results (grade: 69 / 70)
 * Result of Ray Tracing
-<div align=center><img src="./imgs/a7_rt.ppm" width="300" height="300" alt="result"/></div>
+<div align=center><img src="./imgs/a7_rt.png" width="300" height="300" alt="result"/></div>
 
 * Comparison (w/o multi-thread)
     * Resolution: 512, SSP = 16, running time: 1212 seconds
