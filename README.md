@@ -61,3 +61,21 @@
 ### Results (grade: 30 / 30)
 <div align=center><img src="./imgs/a5.ppm" width="500" height="375" alt="result"/></div>
 
+
+## Assignment 6: Sturcture of Acceleration
+### Requirements
+* Bounding Box Intersection: Correctly implement the intersection function of light and bounding box
+* Implement BVH to accelerate the intersection of light and scene
+* [Bonus] SAH search: learn SAH (Surface Area Heuristic) and implement SAH acceleration
+### Results (grade: 60 / 60)
+* Comparison
+    * Time for creating BVH: 220 ms, time for rendering: 3274 ms
+    * Time for creating SAH-BVH: 532 ms, time for rendering: 2921 ms
+* Result of BVH
+<div align=center><img src="./imgs/a6_BVH.ppm" width="500" height="375" alt="result"/></div>
+
+* Result of SAH
+<div align=center><img src="./imgs/a6_SAH.ppm" width="500" height="375" alt="result"/></div>
+
+
+
