@@ -120,6 +120,6 @@
     * C++, OpenGL
 * Reference
     * Rendering fur with three dimensional textures, SIGGRAPH 1989 
-### Result
+### Results
 * **Grade: 95**
 * **Due to confidentiality reasons, visual results are temporarily not provided.**
