@@ -59,7 +59,7 @@
 * Implement the light generation part
 * Implement the Moller-Trumbore algorithm
 ### Results (grade: 30 / 30)
-<div align=center><img src="./imgs/a5.ppm" width="300" height="270" alt="result"/></div>
+<div align=center><img src="./imgs/a5.png" width="300" height="270" alt="result"/></div>
 
 
 ## Assignment 6: Sturcture of Acceleration
@@ -72,10 +72,10 @@
     * Time for creating BVH: 220 ms, time for rendering: 3274 ms
     * Time for creating SAH-BVH: 532 ms, time for rendering: 2921 ms
 * Result of BVH
-<div align=center><img src="./imgs/a6_BVH.ppm" width="300" height="270" alt="result"/></div>
+<div align=center><img src="./imgs/a6_BVH.png" width="300" height="270" alt="result"/></div>
 
 * Result of SAH
-<div align=center><img src="./imgs/a6_SAH.ppm" width="300" height="270" alt="result"/></div>
+<div align=center><img src="./imgs/a6_SAH.png" width="300" height="270" alt="result"/></div>
 
 
 ##  Assignment 7: Path Tracing
