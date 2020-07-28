@@ -17,5 +17,7 @@ This is the online course taught by [Ling-Qi Yan](https://sites.cs.ucsb.edu/~lin
 * Implement z-buffer algorithm and  draw triangles on the screen in order
 * [Bonus] Implement super-sampling algorithm (anti-aliasing)
 ### Results (grade: 50 / 50)
-* <div align=center><img src="./imgs/a2_raw.png" width="250" height="250" alt="raw result"/></div>
-* <div align=center><img src="./imgs/a2_msaa.png" width="250" height="250" alt="raw result with msaa"/></div>
+<div align=center><img src="./imgs/a2_raw.png" width="300" height="300" alt="raw result"/></div>
+
+<div align=center><img src="./imgs/a2_msaa.png" width="300" height="300" alt="raw result with msaa"/></div>
+
