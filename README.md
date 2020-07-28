@@ -1,7 +1,7 @@
 # GAMES101: Introduction to Computer Graphics
 <div align=center><img src="./imgs/CG.png" width="810" height="150" alt="CG"/></div>
 
-* This is the online course taught by [Ling-Qi Yan](https://sites.cs.ucsb.edu/~lingqi/index.html) in Chinese.
+* This is the online course taught by [Ling-Qi Yan(闫令琪)](https://sites.cs.ucsb.edu/~lingqi/index.html) in Chinese.
 * There are **eight assignments** and **one final project**. All eight assignments only need Eigen, OpenCV except assignment 8.
 * My overall grade is **114.81 / 115**. 
 * Course Homepage can be found [here](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html).
@@ -94,3 +94,29 @@
 <div align=center><img src="./imgs/a7_microfacet.png" width="500" height="174.6" alt="result"/></div>
 
 
+## Assignment 8: Mass-Spring System
+### Requirements
+* Connect the rope restraint, construct the rope correctly
+* Implement the following methods: Semi-implicit Euler method, Explicit Euler method, Explicit Verlet and Damping
+### Results (grade: 35 / 35)
+
+
+## Final Project: Hair Modeling and Rendering
+### Hair Modeling
+* Method
+    * Input: an orientation map as input
+    * Output: corresponding 3D hair model estimated by a neural network
+* Programming Language / Framework / API
+    * Python, PyTorch
+* Reference
+    * HairNet: Single-View Hair Reconstruction using Convolutional Neural Networks, ECCV 2018
+### Hair Rendering 
+* Methods:
+    * Improved Kajiya-Kay Shading Model
+* Programming Language / Framework / API
+    * C++, OpenGl
+* Reference
+    * Rendering fur with three dimensional textures, SIGGRAPH 1989 
+### Result
+* Grade: 95
+* **Due to confidentiality reasons, visual results are temporarily not provided**
